@@ -1,3 +1,4 @@
+//  internal imports
 import { INCREMENT, DECREMENT, RESET } from '../constants';
 
 export const incrementCount = () => {
